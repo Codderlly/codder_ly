@@ -1,9 +1,9 @@
 ---
-title: 'Flutter and Dart Clean Code (I)'
-pubDate: 2023-01-05T05:00:00Z
+title: 'Flutter and Dart Clean Code'
+pubDate: 2022-01-05T05:00:00Z
 description: 'Clean code is an essential philosophy and practice in software development that focuses on writing code that is easy to understand, maintain, and modify.'
 author: 'Codderlly'
-image: ''
+image: '/blog/post-001-cover.jpg'
 tags: ['flutter', 'dart']
 ---
 

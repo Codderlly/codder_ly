@@ -1,7 +1,7 @@
 ---
 title: 'Modularization and Separation of Responsibilities in Dart and Flutter'
 pubDate: 2022-01-10T05:00:00Z
-description: 'How to build maintainable and scalable applications'
+description: 'How to build maintainable and scalable applications.'
 author: 'Codderlly'
 image: '/blog/post-002-cover.jpg'
 tags: ['flutter', 'dart']
